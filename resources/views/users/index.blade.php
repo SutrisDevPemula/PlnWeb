@@ -7,8 +7,8 @@
       <div class="row no-gutters slider-text align-items-center">
          <div class="col-md-6 ftco-animate d-flex align-items-end">
             <div class="text w-100">
-               <h1 class="mb-4">Perusahaan Listrik Negara (PLN)</h1>
-               <p class="mb-4">Penyedia layanan listrik untuk Negeri</p>
+               <h1 class="mb-4">PT. Batu Sela Tehknik</h1>
+               <p class="mb-4">Penyedia layanan listrik untuk Masyarakat Negeri</p>
                <!-- <p><a href="#" class="btn btn-primary py-3 px-4">Contact us</a> <a href="#" class="btn btn-white py-3 px-4">Read more</a></p> -->
             </div>
          </div>
